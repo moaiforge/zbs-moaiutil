@@ -3,9 +3,9 @@ ZBS integration for Moai via Pito
 
 Requirements
 ------------
-Requires latest version of moai community tools from moaiforge here: https://github.com/moaiforge/moai-community
+Requires latest version of moai community tools from moai here: https://github.com/moai/moai-community
 
-Requires moai sdk (1.7) from https://github.com/moaiforge/moai-sdk  (checkout the moai-develop branch)
+Requires moai sdk (1.7) from https://github.com/moai/moai-dev  (checkout the develop branch)
 
 Installation
 ------------
